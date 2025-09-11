@@ -6,7 +6,6 @@ Integrating Zoho Desk with marketing automation platforms ensures seamless data 
 
 
 3 - How to copy and sync customer data from Zoho Desk to Marketing tool ?
-
 Automate workflow so that product data get updated easily and fastly .
 Products Data is already stored in the Zoho Books & CRM cloud Application. You will configure these applications in a way that Products data flows from Books to CRM then syncs with Desk vis-a-vis without manual import. 
 
