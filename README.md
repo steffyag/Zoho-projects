@@ -1,1 +1,3 @@
+1 – How to Automate Sending Invoice to User with Zoho Books
+
 The outcome of this design is the implementation of an automated system within Zoho Flow to ensure invoices are automatically sent to customers upon creation in Zoho Books, thereby enhancing billing efficiency and customer satisfaction
