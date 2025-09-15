@@ -9,3 +9,5 @@ Integrating Zoho Desk with marketing automation platforms ensures seamless data 
 Automate workflow so that product data get updated easily and fastly .
 Products Data is already stored in the Zoho Books & CRM cloud Application. You will configure these applications in a way that Products data flows from Books to CRM then syncs with Desk vis-a-vis without manual import. 
 
+4 - How to Automate assignment of high priority Breached ticket to respective team ?
+The outcome of this use case is the reassignment of high priority breached open ticket to higher team after 7 days of Open.
